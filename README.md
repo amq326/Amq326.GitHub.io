@@ -1,2 +1,4 @@
 # Amq326.GitHub.io
-# My name is Aidan Quinn and I'm a journalism major and real estate minor. I am a junior and I also play baseball for the Mountain Hawks. I'm currently taking a data journalism course with Prof. Jia. 
+# My name is Aidan Quinn and I'm a journalism major and real estate minor at Lehigh University. I am a junior and I also play baseball for the Mountain Hawks. I'm currently taking a data journalism course with Prof. Jia. 
+# 
+
