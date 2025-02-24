@@ -17,4 +17,10 @@ Source: [Lehigh University Profile Fall 2024](https://data.lehigh.edu/sites/data
 
 
 
+
+
+Looking into Bryce Harper's impact on the Phillies since signing a 13-year, $330 million contract in 2019. 
+
 ![Infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/5%20(1).png?raw=true)
+
+Source: [Baseball Reference](https://www.baseball-reference.com/teams/PHI/2024.shtml)
