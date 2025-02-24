@@ -7,8 +7,11 @@ View my profile [here](https://amq326.wixsite.com/my-site-1/about).
 
 
 
+
+
 Here's an infographic displaying gender statistics among Lehigh faculty. The data shows that there are more men than women on the staff and the largest difference seen is in full-time professors. 
 ![Infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/5.png?raw=true) 
+
 Source: [Lehigh University Profile Fall 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf). 
 
 
