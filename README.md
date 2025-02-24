@@ -24,3 +24,8 @@ Looking into Bryce Harper's impact on the Phillies since signing a 13-year, $330
 ![Infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/5%20(1).png?raw=true)
 
 Source: [Baseball Reference](https://www.baseball-reference.com/teams/PHI/2024.shtml)
+
+After winning the 2008 World Series, The Philadelphia Phillies continued with a few years of success followed by several years of mediocracy. The team was in a 9-year playoff drought entering the 2019 season and knew it was time to make a roster move. With the offseason underway, and free agency right around the corner, teams around the league all wanted a chance to sign Bryce Harper. He is a former Rookie of the Year, 2015 MVP, 6x all-star, and Homerun Derby champion all by the age of 26. 
+
+
+The Phillies were one of the teams showing interest, and luckily for them, the interest was mutual. Since signing Harper, the Phillies have shown a noticeable improvement in offensive consistency. The team managed to have a .250 or better batting average in four of his six seasons with the team. They also hit over 200 home runs three times. Comparatively, the team pre-Harper struggled to generate such offense and the team placed bottom of the division for almost a decade.
