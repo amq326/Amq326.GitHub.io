@@ -29,3 +29,10 @@ After winning the 2008 World Series, The Philadelphia Phillies continued with a 
 
 
 The Phillies were one of the teams showing interest, and luckily for them, the interest was mutual. Since signing Harper, the Phillies have shown a noticeable improvement in offensive consistency. The team managed to have a .250 or better batting average in four of his six seasons with the team. They also hit over 200 home runs three times. Comparatively, the team pre-Harper struggled to generate such offense and the team placed bottom of the division for almost a decade.
+
+
+
+
+Lehigh vs. Lafayette Football 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wRfCUal7PlWmq6dIZqX-FKSEZ3OsFjzrDOrKsGl05OM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
