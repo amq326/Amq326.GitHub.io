@@ -42,3 +42,7 @@ Lehigh vs. Lafayette Football
 
 
 ![infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/Philadelphia_76'ers_Statistics__Wins__Championships__FG_%25_chartbuilder.png?raw=true)
+
+
+
+![infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/Lehigh_Undergraduate_College_Percentages___Arts_&_Sciences__Business__Engineering_chartbuilder.png?raw=true)
