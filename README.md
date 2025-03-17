@@ -38,3 +38,7 @@ Lehigh vs. Lafayette Football
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wRfCUal7PlWmq6dIZqX-FKSEZ3OsFjzrDOrKsGl05OM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ![infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/Percent_of_Undergraduate_Enrollment__Percent_of_Undergraduate_Enrollment__chartbuilder.png?raw=true)
+
+
+
+![infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/Philadelphia_76'ers_Statistics__Wins__Championships__FG_%25_chartbuilder.png?raw=true)
