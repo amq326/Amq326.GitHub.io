@@ -50,3 +50,7 @@ Lehigh vs. Lafayette Football
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1yThjY_vM3EUjkFZ-obZo2ijkAhnYt1k&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1_cAAbAW1ERfZUpX7AtauIBer-c_jNes&ehbc=2E312F" width="640" height="480"></iframe>
