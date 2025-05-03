@@ -48,9 +48,17 @@ Lehigh vs. Lafayette Football
 ![infographic](https://github.com/amq326/Amq326.GitHub.io/blob/main/Lehigh_Undergraduate_College_Percentages___Arts_&_Sciences__Business__Engineering_chartbuilder.png?raw=true)
 
 
-
+Map of the top 20 Cycling Cities in 2019
 <iframe src="https://www.google.com/maps/d/embed?mid=1yThjY_vM3EUjkFZ-obZo2ijkAhnYt1k&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 
+
+
+
+Map of Cities with the Highest-Paid Bus Drivers 
 <iframe src="https://www.google.com/maps/d/embed?mid=1_cAAbAW1ERfZUpX7AtauIBer-c_jNes&ehbc=2E312F" width="640" height="480"></iframe>
+
+When thinking of a job that isn't recognized enough for how essential their work is, a bus driver may come to mind. For years, the bus has been a main way of transportation and can be seen in all major cities. With the number of people who depend on a bus to get around, do they deserve a higher salary?
+
+The highest-paid bus drivers in the world work in Luxembourg City, Luxembourg. Their salaries range from $78,900 to $93,900 annually on a 40-hour work week. The list of the top five cities with the highest-paid bus drivers starts with New York City at 5, with a salary ranging from $46,000 and $57,200 on a 40-hour work week. Fourth comes the drivers in Los Angeles. The salary in that area is between $49,000 and $60,200 a year on a 39-hour work week. In third comes drivers in Geneva, Switzerland, making $57,500 to $77,400 on a 40-hour week. Second place belongs to Zurich, Switzerland, offering a salary of $73,300 to $90,700 annually on a 42-hour week. And as mentioned above, Luxembourg City is the home of the wealthiest bus drivers. Knowing that the absolute best salary for a bus driver is only $93,900 dollars a year, is it time to consider a raise for this line of work? 
